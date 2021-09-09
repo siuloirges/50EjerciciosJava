@@ -1,4 +1,4 @@
-package ejercicio_interface_1;
+package Ejercicio9;
 import java.io.*;
 
 import javax.swing.JFrame;

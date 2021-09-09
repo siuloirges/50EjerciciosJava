@@ -1,10 +1,10 @@
-package ejercicio_interface_1;
+package ejercicio_interface_2;
 import java.io.*;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-public class ejercicio_interface_1 {
+public class ejercicio_interface_2 {
 
 	public static void main(String args[]) throws IOException {
 

@@ -1,4 +1,4 @@
-package ejercicio_interface_1;
+package ejercicio_interface_2;
 
 
 import java.awt.*;
